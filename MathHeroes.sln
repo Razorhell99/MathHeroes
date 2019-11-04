@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathHeroes", "MathHeroes\MathHeroes.csproj", "{0A1FED45-BA5C-43BA-8A91-069688C1A509}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engine", "Engine\Engine.csproj", "{A7EC5BC0-76D9-466C-8538-62625838CD43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A1FED45-BA5C-43BA-8A91-069688C1A509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A1FED45-BA5C-43BA-8A91-069688C1A509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A1FED45-BA5C-43BA-8A91-069688C1A509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A1FED45-BA5C-43BA-8A91-069688C1A509}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7EC5BC0-76D9-466C-8538-62625838CD43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7EC5BC0-76D9-466C-8538-62625838CD43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7EC5BC0-76D9-466C-8538-62625838CD43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7EC5BC0-76D9-466C-8538-62625838CD43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10D5D890-6BE3-45A4-A537-C514AC975E96}
+	EndGlobalSection
+EndGlobal
